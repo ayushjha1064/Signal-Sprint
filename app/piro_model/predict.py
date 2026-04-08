@@ -79,4 +79,4 @@ def predict(model, image_path):
         logits = model["stage2"](x)
         prob_action = float(torch.softmax(logits, dim=1)[0][1].item())
 
-    return int(prob_action >= model["decision_threshold"])
+    return int(prob_action >= 0.325)

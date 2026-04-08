@@ -3,6 +3,20 @@
 node_modules/
 dist/
 .venv/
+venv/
+env/
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
 app/backend/uploads/
+
+data/
+Signal Sprint PNG/
+runs/
+submission/
+
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
