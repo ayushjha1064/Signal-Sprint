@@ -1,0 +1,3 @@
+image_path,actual,predicted,copied_to
+data/stage2/val/action_required/img021.png,action_required,no_action,reports/stage2_eval/wrong_images/action_required__pred_no_action__img021.png
+data/stage2/val/action_required/img085.png,action_required,no_action,reports/stage2_eval/wrong_images/action_required__pred_no_action__img085.png

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DMC Dustbin Monitor</string>
+    <string name="title_activity_main">DMC Dustbin Monitor</string>
+    <string name="package_name">com.signalsprint.dustbinmonitor</string>
+    <string name="custom_url_scheme">com.signalsprint.dustbinmonitor</string>
+</resources>
